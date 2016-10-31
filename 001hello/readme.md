@@ -12,7 +12,7 @@
     `karma init`
     
     > 会有引导提示，tab键选择选项，所有选项可以回车默认
-    ---
+    
     > 完成后，会在当前目录生成 [karma.conf.js](karma.conf.js) 文件
     
     > 默认选项会依赖测试框架jasmine ，需要安装
